@@ -1,7 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.counter">
+    package="com.nyorok.counter">
+    
+    <uses-feature android:name="android.hardware.type.watch" />
+
    <application
-        android:label="counter"
+        android:label="Counter"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
