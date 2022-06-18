@@ -28,7 +28,7 @@ class _CounterScreenState extends State<CounterScreen> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Pushes:',
+              'Counted:',
             ),
             Text(
               '$_counter',

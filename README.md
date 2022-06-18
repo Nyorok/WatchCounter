@@ -1,6 +1,6 @@
-# punch_timetek
+# counter
 
-An Wear OS App to Punch on Timetek
+An Wear OS App to Count
 
 ## Getting Started
 

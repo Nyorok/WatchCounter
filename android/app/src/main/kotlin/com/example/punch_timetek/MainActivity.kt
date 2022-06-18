@@ -1,4 +1,4 @@
-package com.example.punch_timetek
+package com.example.counter
 
 import io.flutter.embedding.android.FlutterActivity
 

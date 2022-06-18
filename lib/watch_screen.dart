@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:punch_timetek/counter_screen.dart';
+import 'package:counter/counter_screen.dart';
 import 'package:wear/wear.dart';
 
 class WatchScreen extends StatelessWidget {
