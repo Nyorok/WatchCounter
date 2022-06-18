@@ -1,6 +1,6 @@
-# counter
+# Counter
 
-An Wear OS App to Count
+A Wear OS App to Count
 
 ## Getting Started
 
